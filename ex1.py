@@ -11,3 +11,5 @@ print('Yay! Printing.')
 print("I'd much rather youn'not'.")
 
 print('I "said"do not touch this.')
+
+print('I am happy')
